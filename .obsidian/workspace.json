@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "136667d764075dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time count.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time count"
-            }
-          },
-          {
-            "id": "b785acc2ec2d94d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Grammar/Presente/Presente Indicativo.md",
                 "mode": "source",
                 "source": false
@@ -48,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Presente Indicativo"
             }
+          },
+          {
+            "id": "c4df321d59e0e1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/Presente/Hace que construct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hace que construct"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Grammar/Presente/Hace que construct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Hace que construct"
             }
           },
           {
@@ -141,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Grammar/Presente/Hace que construct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Hace que construct"
             }
           },
           {
@@ -168,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Grammar/Presente/Hace que construct.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Hace que construct"
             }
           }
         ]
@@ -191,17 +177,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b785acc2ec2d94d6",
+  "active": "c4df321d59e0e1b0",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "img/Pasted image 20250115195225.png",
     "Grammar/Presente/Presente Indicativo.md",
-    "Untitled.md",
+    "Grammar/Presente/Hace que construct.md",
+    "img/Pasted image 20250115195136.png",
+    "img/Pasted image 20250115194905.png",
+    "img/Pasted image 20250115194734.png",
     "README.md",
-    "Pasted image 20250114181904.png",
-    "Grammar/Grammar.md",
-    "Grammar/Presente",
-    "Grammar",
+    "img",
+    "Untitled.md",
+    "Untitled 1.md",
     "Time count.md",
+    "img/Pasted image 20250114181904.png",
+    "Grammar/Presente",
+    "Grammar/Grammar.md",
+    "Grammar",
     "Welcome.md"
   ]
 }

@@ -1,4 +1,4 @@
-![[Pasted image 20250114181904.png]]
+![[Pasted image 20250115194905.png]]
 
 ## When is it used?
 
@@ -14,3 +14,7 @@
 	- ¿Bebes café o té?
 	- ¿Abro la puerta?
 
+![[Pasted image 20250115194734.png]]
+
+## Hace que construct
+[[Hace que construct]]
