@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Presente/Hace que construct.md",
+                "file": "Grammar/Presente/irregular verb patterns/Frequently used irregular verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hace que construct"
+              "title": "Frequently used irregular verbs"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar/Presente/Hace que construct.md",
+                "file": "Grammar/Presente/irregular verb patterns/Frequently used irregular verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hace que construct"
+              "title": "Backlinks for Frequently used irregular verbs"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar/Presente/Hace que construct.md",
+                "file": "Grammar/Presente/irregular verb patterns/Frequently used irregular verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hace que construct"
+              "title": "Outgoing links from Frequently used irregular verbs"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar/Presente/Hace que construct.md"
+                "file": "Grammar/Presente/irregular verb patterns/Frequently used irregular verbs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hace que construct"
+              "title": "Outline of Frequently used irregular verbs"
             }
           }
         ]
@@ -179,20 +179,27 @@
   },
   "active": "c4df321d59e0e1b0",
   "lastOpenFiles": [
-    "img/Pasted image 20250115195225.png",
+    "img/IMG_0041.jpg",
+    "img/IMG_0040.jpg",
+    "README.md",
+    "Grammar/Presente/irregular verb patterns/Frequently used irregular verbs.md",
+    "Grammar/Grammar.md",
     "Grammar/Presente/Presente Indicativo.md",
+    "Grammar/Presente/irregular verb patterns/vowel + (-cer or -cir).md",
     "Grammar/Presente/Hace que construct.md",
+    "Untitled.md",
+    "img/Pasted image 20250120190451.png",
+    "Grammar/Presente/Irregular verb patterns.md",
+    "Grammar/Presente/irregular verb patterns",
+    "img/Pasted image 20250115195225.png",
     "img/Pasted image 20250115195136.png",
     "img/Pasted image 20250115194905.png",
     "img/Pasted image 20250115194734.png",
-    "README.md",
     "img",
-    "Untitled.md",
     "Untitled 1.md",
     "Time count.md",
     "img/Pasted image 20250114181904.png",
     "Grammar/Presente",
-    "Grammar/Grammar.md",
     "Grammar",
     "Welcome.md"
   ]
