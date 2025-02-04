@@ -1,0 +1,4 @@
+![[IMG_0047.jpg]]
+![[IMG_0049.jpg]]
+
+Cada día salgo de casa a las siete. **==Conduzco==** mi coche a la oficina y allí trabajo duro. Cuando **==vuelvo==** a casa, hago los quehaceres de la casa. Gracias a cielos por los aparatos electrodomésticos! **==Convenzo==** mis hijos y marido **==de==** ayudar y todos **==compartimos==** el trabajo. Mi esposo pasa la aspiradora. Yo **==pongo la ropa==** en la lavadora y después mi hija Mati la seca en la secadora y la guarda en los armarios. Yo **==asigno==** las quehaceres domésticos. Entonces propongo un plano para la cena. Mi hijo Rob viene a la cocina y escucha mis instrucciones. El microondas es su aparato favorito y él prepara las comidas muy rápidas. Después de la cena, Rob y Mato **==cargan las lavavajillas==**. Ahora yo merezco un descanso y veo mis programas favoritos de la tele.

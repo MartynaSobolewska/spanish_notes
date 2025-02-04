@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Grammar.md",
+                "file": "Traducciónes/presente/Mi día típica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammar"
+              "title": "Mi día típica"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar/Grammar.md",
+                "file": "Traducciónes/presente/Mi día típica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grammar"
+              "title": "Backlinks for Mi día típica"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar/Grammar.md",
+                "file": "Traducciónes/presente/Mi día típica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Grammar"
+              "title": "Outgoing links from Mi día típica"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar/Grammar.md"
+                "file": "Traducciónes/presente/Mi día típica.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Grammar"
+              "title": "Outline of Mi día típica"
             }
           }
         ]
@@ -164,8 +164,16 @@
   },
   "active": "0784f85676f0ce4e",
   "lastOpenFiles": [
-    "Grammar/Presente/Presente.md",
+    "img/IMG_0050.jpg",
+    "img/IMG_0049 1.jpg",
+    "img/IMG_0049.jpg",
+    "img/IMG_0047.jpg",
+    "Traducciónes/Traducciónes.md",
+    "Traducciónes/presente/Mi día típica.md",
+    "Traducciónes/presente",
     "Grammar/Grammar.md",
+    "Traducciónes",
+    "Grammar/Presente/Presente.md",
     "Grammar/Presente/Presente Indicativo.md",
     "Grammar/Presente/Irregular verb patterns.md",
     "Grammar/Presente/irregular verb patterns/ending in -cer & -cir.md",
@@ -184,9 +192,6 @@
     "Untitled.md",
     "img/Pasted image 20250120190451.png",
     "Grammar/Presente/irregular verb patterns",
-    "img/Pasted image 20250115195225.png",
-    "img/Pasted image 20250115195136.png",
-    "img/Pasted image 20250115194905.png",
     "img",
     "Untitled 1.md",
     "Time count.md",
